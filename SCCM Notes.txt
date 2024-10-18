@@ -1,0 +1,1 @@
+ccmsetup.exe SMSSITECODE=<sitecode> SMSMP=<primary site server> FSP=<primary site server> DNSSUFFIX=<dns suffix> /mp:<MP FQDN> /ForceInstall
